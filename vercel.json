@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/tfjs_model/(.*)", "dest": "/tfjs_model/$1" }
+  ]
+}
